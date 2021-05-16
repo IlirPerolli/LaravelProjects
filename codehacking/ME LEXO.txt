@@ -1,0 +1,1 @@
+Ketu ne kete template eshte versioni i vjeter i bootstrap ku nese behet kompresimi i fileve me webpack, atehere ne app.css eshte bootstrap ku nuk pranohet nga template. Si zgjidhje eshte fshirja e permbajtjes se app.css dhe lidhja e css te jashtem ne layouts/app.blade.php.

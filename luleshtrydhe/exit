@@ -1,0 +1,17 @@
+[33mcommit a03edf58183a0c722484eda4c592e3f1021f6211[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ilir <ilir_perolli@live.com>
+Date:   Fri Aug 28 00:31:17 2020 +0200
+
+    Users page working without photos
+
+[33mcommit af2e4ac9d34f9806d120745284b80e435dd18205[m
+Author: Ilir <ilir_perolli@live.com>
+Date:   Tue Aug 25 18:43:03 2020 +0200
+
+    admin master page setup
+
+[33mcommit 72e5126911b227c405758ef69f6afcedf39df64e[m
+Author: Ilir <ilir_perolli@live.com>
+Date:   Tue Aug 25 16:10:14 2020 +0200
+
+    My first commit - admin views created
